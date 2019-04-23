@@ -7,7 +7,7 @@ This is an R Shiny app.
 2. Or launch the app by running the following code in your RStudio.
 
 ```
-library(shiny); runGitHub( "Shiny-Text_Input_Prediction_V2", "Nov05")
+library(shiny); runGitHub( "Shiny-Text_Input_Prediction-V2", "Nov05")
 ```
 
 

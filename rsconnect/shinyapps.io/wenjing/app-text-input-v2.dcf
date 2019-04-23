@@ -1,0 +1,12 @@
+name: app-text-input-v2
+title: app-text-input-v2
+username:
+account: wenjing
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 885442
+bundleId: 2033830
+url: https://wenjing.shinyapps.io/app-text-input-v2/
+when: 1556054168.61189
+asMultiple: FALSE
+asStatic: FALSE
